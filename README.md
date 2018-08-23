@@ -1,0 +1,2 @@
+# PL_Search
+根据ArticleSpider爬取的数据使用Django搭建搜索引擎
