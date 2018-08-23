@@ -1,0 +1,25 @@
+# PL_Search3_uwsgi.ini file
+[uwsgi]
+
+# Django-related settings
+# the base directory (full path)
+chdir           = /project/PL_Search3
+# Django's wsgi file
+module          = PL_Search3.wsgi
+# the virtualenv (full path)
+home            = /root/Envs
+
+# process-related settings
+# master
+master          = true
+# maximum number of worker processes
+processes       = 4
+# the socket (use the full path to be safe
+socket          = /project/PL_Search3/PL_Search3.sock
+# ... with appropriate permissions - may be needed
+chmod-socket    = 666
+# clear environment on exit
+vacuum          = true
+pidfile         = /project/PL_Search3/uwsgi.pid
+daemonize = /project/PL_Search3/PL_Search3_uwsgi.log
+disable-logging = true

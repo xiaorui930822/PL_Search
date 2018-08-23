@@ -1,0 +1,10 @@
+Django==2.0
+django-pure-pagination==0.3.0
+elasticsearch==5.5.1
+elasticsearch-dsl==5.4.0
+python-dateutil==2.7.3
+pytz==2018.5
+redis==2.10.6
+six==1.11.0
+urllib3==1.21.1
+uWSGI==2.0.17.1

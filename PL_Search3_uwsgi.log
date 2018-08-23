@@ -1,0 +1,455 @@
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:16:09 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f9524e4e840 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:19:15 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007fa70b4d0840 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:21:42 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f8d86f36840 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:25:03 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f3c89342840 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:27:36 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f84f435b840 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:33:53 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+group www-data not found.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:34:07 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+group www-data not found.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:35:55 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+group www-data not found.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:36:32 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+group www-data not found.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:37:50 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+group www-data not found.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:50:40 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007fc1192bf840 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:52:32 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs/pylearn_search
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x20584b0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x20584b0 pid: 5297 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 5297)
+spawned uWSGI worker 1 (pid: 5299, cores: 1)
+spawned uWSGI worker 2 (pid: 5300, cores: 1)
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 13:56:08 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs/pylearn_search
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x2675430
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x2675430 pid: 5524 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 5524)
+spawned uWSGI worker 1 (pid: 5526, cores: 1)
+spawned uWSGI worker 2 (pid: 5527, cores: 1)
+Wed Aug 22 13:57:11 2018 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /search/?q=python (ip 61.183.81.129) !!!
+Wed Aug 22 13:57:11 2018 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /search/?q=python (61.183.81.129)
+OSError: write error
+Wed Aug 22 14:12:18 2018 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /search/?q=python (ip 61.183.81.129) !!!
+Wed Aug 22 14:12:18 2018 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /search/?q=python (61.183.81.129)
+OSError: write error
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 14:16:46 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search3
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+limiting address space of processes...
+your process address space limit is 134217728 bytes (128 MB)
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs/pylearn_search
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xc0d690
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+Traceback (most recent call last):
+  File "./PL_Search3/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/apps/registry.py", line 89, in populate
+    app_config = AppConfig.create(entry)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/apps/config.py", line 90, in create
+    module = import_module(entry)
+  File "/root/Envs/pylearn_search/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/contrib/admin/__init__.py", line 4, in <module>
+    from django.contrib.admin.filters import (
+  File "<frozen importlib._bootstrap>", line 968, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 957, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 693, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 797, in get_code
+  File "<frozen importlib._bootstrap_external>", line 508, in _compile_bytecode
+MemoryError
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 6721)
+spawned uWSGI worker 1 (pid: 6723, cores: 1)
+spawned uWSGI worker 2 (pid: 6724, cores: 1)
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Aug 22 14:36:13 2018] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-28) on 15 August 2018 12:18:43
+os: Linux-3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017
+nodename: VM_0_9_centos
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /project/PL_Search
+writing pidfile to /project/PL_Search3/uwsgi.pid
+detected binary path: /root/Envs/pylearn_search/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /project/PL_Search3
+your processes number limit is 7283
+limiting address space of processes...
+your process address space limit is 134217728 bytes (128 MB)
+your memory page size is 4096 bytes
+detected max file descriptor number: 100001
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /project/PL_Search3/PL_Search3.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.6 (default, Aug 11 2018, 10:28:30)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)]
+Set PythonHome to /root/Envs/pylearn_search
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xe227b0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218760 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+Traceback (most recent call last):
+  File "./PL_Search3/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/apps/registry.py", line 89, in populate
+    app_config = AppConfig.create(entry)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/apps/config.py", line 90, in create
+    module = import_module(entry)
+  File "/root/Envs/pylearn_search/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/root/Envs/pylearn_search/lib/python3.5/site-packages/django/contrib/admin/__init__.py", line 4, in <module>
+    from django.contrib.admin.filters import (
+  File "<frozen importlib._bootstrap>", line 968, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 957, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 693, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 797, in get_code
+  File "<frozen importlib._bootstrap_external>", line 508, in _compile_bytecode
+MemoryError
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8005)
+spawned uWSGI worker 1 (pid: 8007, cores: 1)
+spawned uWSGI worker 2 (pid: 8008, cores: 1)
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
+--- no python application found, check your startup logs for errors ---
