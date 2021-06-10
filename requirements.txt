@@ -1,4 +1,4 @@
-Django==2.0
+Django==2.2.24
 django-pure-pagination==0.3.0
 elasticsearch==5.5.1
 elasticsearch-dsl==5.4.0
